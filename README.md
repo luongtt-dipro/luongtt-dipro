@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lượng Trần - PRO
+- 👋 Hi, I’m Lượng Trần - PRO-ers
 - 👀 I’m interested in building robust backend systems and exploring scalable architectures.
 - 🌱 I’m currently learning advanced TypeScript.
 - 💞️ I’m focusing on backend-focused projects and innovative system designs.
