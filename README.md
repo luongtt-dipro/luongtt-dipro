@@ -1,3 +1,14 @@
+<hr>
+<p align="center">
+  <samp>
+        <a href="https://bsod-windows.vercel.app/" target="_blank">Me</a> ▪
+        <a href="https://bsod-windows.vercel.app/" target="_blank">LinkedIn</a> ▪
+        <a href="https://bsod-windows.vercel.app/" target="_blank">X</a> ▪
+        <a href="https://bsod-windows.vercel.app/" target="_blank">Instagram</a> ▪
+        <a href="https://bsod-windows.vercel.app/" target="_blank">LeetCode</a>
+  </samp>
+</p>
+
 <p align="center">
   <blockquote align="center">
     💫Learn. ✔Understand. ♻Optimize. 🌏Network. 🌱Grow.
