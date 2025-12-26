@@ -1,3 +1,10 @@
+<p align="center">
+  <blockquote align="center">
+    💫Learn. ✔Understand. ♻Optimize. 🌏Network. 🌱Grow.
+  </blockquote>
+</p>
+
+
 - 👋 Hi, I’m Lượng Trần - PROers | TypeScript Enthusiast | NodeTS
 - 👀 I’m interested in building robust backend systems and exploring scalable architectures.
 - 🌱 I’m currently learning advanced TypeScript.
