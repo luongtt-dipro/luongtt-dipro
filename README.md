@@ -4,6 +4,12 @@
   </blockquote>
 </p>
 
+<div align="center">
+  <a href="http://localhost:3000/hacked"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FFBF00&width=435&lines=Design+for+today.+Scale+for+tomorrow" alt="Typing SVG" /></a>
+</div>
+
+</br>
+
 
 - 👋 Hi, I’m Lượng Trần - PROers | TypeScript Enthusiast | NodeTS
 - 👀 I’m interested in building robust backend systems and exploring scalable architectures.
